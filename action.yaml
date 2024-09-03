@@ -1,5 +1,5 @@
 name: Makepkg Build and Check
-author: Eric Langlois
+author: Bodo Schulz (orig. by Eric Langlois)
 description: Build and check a PKGBUILD package
 branding:
   color: blue
