@@ -1,4 +1,4 @@
-name: Makepkg Build and Check
+name: makepkg for ArchLinux - Build and Check
 author: Bodo Schulz
 description: Build and check a PKGBUILD package
 branding:
